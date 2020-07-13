@@ -11,3 +11,8 @@ All released versions are available as
 
 - Initial build with support for colours, up to two letters and PNG download.
 
+`v0.0.0` **Short Title For Changes** (YYYY-MM-DD)
+
+- Description of changes made in this version.
+- Additional noteworthy changes to be mentioned.
+
